@@ -15,18 +15,18 @@
 * [Android Accelerometer/GPS](https://github.com/alanszlosek/android-accelerometer-gps)
 
 ### Physics Toolbox Accelerometer
-[Physics Toolbox](https://www.vieyrasoftware.net/physics-toolbox-accelerometer)
-[Brief](http://appcrawlr.com/android/physics-toolbox-accelerometer#authors-description)
+* [Physics Toolbox](https://www.vieyrasoftware.net/physics-toolbox-accelerometer)
+* [Brief](http://appcrawlr.com/android/physics-toolbox-accelerometer#authors-description)
 
 ### Personal Running Trainer
-[Brief](http://appcrawlr.com/android/personal-running-trainer#authors-description)
-[App Description](http://www.personalrunningtrainer.com/functions)
+* [Brief](http://appcrawlr.com/android/personal-running-trainer#authors-description)
+* [App Description](http://www.personalrunningtrainer.com/functions)
 
 ### Sensor Kinetics
-[Sensor Kinetics](http://www.rotoview.com/sensor_kinetics.htm)
+* [Sensor Kinetics](http://www.rotoview.com/sensor_kinetics.htm)
 
 ### Seismo Detecter
-[Seismo](https://play.google.com/store/apps/details?id=com.ariwilson.seismo&hl=es)
-[My Shake, Brief](http://news.berkeley.edu/2016/02/12/new-app-turns-smartphones-into-worldwide-seismic-network/)
-[My Shake Reasearch Paper](http://advances.sciencemag.org/content/2/2/e1501055.full)
-[My Shake Supplementary Material](http://advances.sciencemag.org/content/advances/suppl/2016/02/09/2.2.e1501055.DC1/1501055_SM.pdf)
+* [Seismo](https://play.google.com/store/apps/details?id=com.ariwilson.seismo&hl=es)
+* [My Shake, Brief](http://news.berkeley.edu/2016/02/12/new-app-turns-smartphones-into-worldwide-seismic-network/)
+* [My Shake Reasearch Paper](http://advances.sciencemag.org/content/2/2/e1501055.full)
+* [My Shake Supplementary Material](http://advances.sciencemag.org/content/advances/suppl/2016/02/09/2.2.e1501055.DC1/1501055_SM.pdf)
