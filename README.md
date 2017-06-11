@@ -16,6 +16,7 @@
      * [Android Accelerometer/GPS](https://github.com/alanszlosek/android-accelerometer-gps)
      * [Android Studio](https://github.com/alanszlosek/androidstudio-accelerometer-gps)
 * [Calculate Running Speed Using Accelerometer Sensor](https://stackoverflow.com/questions/13264718/how-to-calculate-running-speed-using-accelerometer-sensor-in-android)
+* [Using Android Sensors in Your App](https://www.sitepoint.com/using-android-sensors-application/)
 
 ## Existing Apps
 ### Google Fit
