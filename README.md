@@ -14,7 +14,7 @@
 * [RunnerUp](https://github.com/jonasoreland/runnerup)
 * [Android Accelerometer/GPS](https://github.com/alanszlosek/android-accelerometer-gps)
 
-##Existing Apps
+## Existing Apps
 ### Physics Toolbox Accelerometer
 * [Physics Toolbox](https://www.vieyrasoftware.net/physics-toolbox-accelerometer)
 * [Brief](http://appcrawlr.com/android/physics-toolbox-accelerometer#authors-description)
