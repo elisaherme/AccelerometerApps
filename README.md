@@ -13,6 +13,8 @@
 * Video Sensors
   #### App that can be used to record video and accelerometer, gyroscope, compass, GPS data at the same time
   [Github](https://github.com/e-lab/VideoSensors)
+* RunnerUp
+  [Run Tracker](https://github.com/jonasoreland/runnerup)
 
 ### Physics Toolbox Accelerometer
 [Physics Toolbox](https://www.vieyrasoftware.net/physics-toolbox-accelerometer)
@@ -20,6 +22,7 @@
 
 ### Personal Running Trainer
 [Brief](http://appcrawlr.com/android/personal-running-trainer#authors-description)
+[App Description](http://www.personalrunningtrainer.com/functions)
 
 ### Sensor Kinetics
 [Sensor Kinetics](http://www.rotoview.com/sensor_kinetics.htm)
