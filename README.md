@@ -8,8 +8,8 @@
 * [Collecting and Plotting Accelerometer Data](https://androidstream.wordpress.com/2013/01/16/android-collecting-and-plotting-accelerometer-data/)
 * [Using the Accelerometer on Android](https://code.tutsplus.com/tutorials/using-the-accelerometer-on-android--mobile-22125)
 * Visualizing Accelerometer Data
-  [Blog](http://rvlasveld.github.io/blog/2013/04/12/visualizing-accelerometer-data/)
-  [Github](https://github.com/rvlasveld/accelerometer_plotting)
+    * [Blog](http://rvlasveld.github.io/blog/2013/04/12/visualizing-accelerometer-data/)
+    * [Github](https://github.com/rvlasveld/accelerometer_plotting)
 * [Video Sensors](https://github.com/e-lab/VideoSensors)
 * [RunnerUp](https://github.com/jonasoreland/runnerup)
 * [Android Accelerometer/GPS](https://github.com/alanszlosek/android-accelerometer-gps)
