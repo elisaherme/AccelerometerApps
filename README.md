@@ -10,11 +10,9 @@
 * Visualizing Accelerometer Data
   [Blog](http://rvlasveld.github.io/blog/2013/04/12/visualizing-accelerometer-data/)
   [Github](https://github.com/rvlasveld/accelerometer_plotting)
-* Video Sensors
-  #### App that can be used to record video and accelerometer, gyroscope, compass, GPS data at the same time
-  [Github](https://github.com/e-lab/VideoSensors)
-* RunnerUp
-  [Run Tracker](https://github.com/jonasoreland/runnerup)
+* [Video Sensors](https://github.com/e-lab/VideoSensors)
+* [RunnerUp](https://github.com/jonasoreland/runnerup)
+* [Android Accelerometer/GPS](https://github.com/alanszlosek/android-accelerometer-gps)
 
 ### Physics Toolbox Accelerometer
 [Physics Toolbox](https://www.vieyrasoftware.net/physics-toolbox-accelerometer)
