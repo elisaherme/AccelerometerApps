@@ -13,8 +13,8 @@
 * [Video Sensors](https://github.com/e-lab/VideoSensors)
 * [RunnerUp](https://github.com/jonasoreland/runnerup)
 * Accelerometer + GPS App
-      * [Android Accelerometer/GPS](https://github.com/alanszlosek/android-accelerometer-gps)
-      * [Android Studio](https://github.com/alanszlosek/androidstudio-accelerometer-gps)
+     * [Android Accelerometer/GPS](https://github.com/alanszlosek/android-accelerometer-gps)
+     * [Android Studio](https://github.com/alanszlosek/androidstudio-accelerometer-gps)
 
 ## Existing Apps
 ### Physics Toolbox Accelerometer
