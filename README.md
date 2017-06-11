@@ -1,7 +1,7 @@
 # AccelerometerApps
 
-[Turn Your Smartphone Into a Science Laboratory](http://static.nsta.org/files/tst1509_32.pdf)
-[Android Developers: Motion Sensors](https://developer.android.com/guide/topics/sensors/sensors_motion.html)
+* [Turn Your Smartphone Into a Science Laboratory](http://static.nsta.org/files/tst1509_32.pdf)
+* [Android Developers: Motion Sensors](https://developer.android.com/guide/topics/sensors/sensors_motion.html)
 
 ## Source Code
 * [Record Accelerometer Data in ms](https://stackoverflow.com/questions/10420231/what-is-the-android-codes-to-record-accelerometer-data-in-millisecond)
