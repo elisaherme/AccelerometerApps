@@ -18,8 +18,9 @@
 * [Calculate Running Speed Using Accelerometer Sensor](https://stackoverflow.com/questions/13264718/how-to-calculate-running-speed-using-accelerometer-sensor-in-android)
 * [Using Android Sensors in Your App](https://www.sitepoint.com/using-android-sensors-application/)
 
-## Videos
+## Saving Files
 * [Write and read txt file](https://www.youtube.com/watch?v=x3pyyQbwLko)
+* [Saving Files: Android Developers](https://developer.android.com/training/basics/data-storage/files.html)
 
 
 ## Existing Apps
